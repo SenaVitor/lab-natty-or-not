@@ -29,7 +29,6 @@ Utilizei Microsoft Copilot para gerar a capa do ebook, após isso, gerei o títu
 
 ## 💭 Reflexão (Opcional)
 Ao criar este ebook pude perceber as vantagens que as IAs nos proporcionam, acelerando o processo de criação, mas claro sempre sendo necessário revisar o conteúdo gerado.
-```
 
 ## 🧠 Prompts
 
